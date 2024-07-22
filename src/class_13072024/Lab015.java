@@ -17,6 +17,10 @@ public class Lab015 {
 
         double d=100.1874;
 
+// double quote is always string
+
+   String name="harshal";
+        System.out.println(name);
 
     }
 
