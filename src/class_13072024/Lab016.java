@@ -4,6 +4,9 @@ public class Lab016 {
     public static void main(String[] args) {
         byte b=10;
         System.out.println(b);
+// distance between moon to earth
+        long  distance_moon_earth= 384000000000000L;
+        System.out.println(distance_moon_earth);
 
 //        1 byte = 8 bits
 //            byte 1 bit = 8 () -> bytes
