@@ -1,6 +1,6 @@
 package class_13072024;
 
-public class lab023
+public class Lab023
 {
     public static void main(String[] args) {
         //Formatting
