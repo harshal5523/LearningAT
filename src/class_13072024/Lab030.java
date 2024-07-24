@@ -1,6 +1,6 @@
 package class_13072024;
 
-public class lab030 {
+public class Lab030 {
     public static void main(String[] args) {
         // Same reference name is not allowed in the
         int age = 65;

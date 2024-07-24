@@ -19,7 +19,7 @@ public interface Lab029 {
         System.out.printf("\n");
         System.out.printf("Div is %f",mul);
         System.out.printf("\n");
-        System.out.printf("Rem is %f",rem);
+        System.out.printf("Rem is %f",rem);;
 
     }
 }
